@@ -530,7 +530,7 @@ body::before {
 }
 
 .showcase-logo {
-  width: 300px;
+  width: 400px;
   opacity: 0.85;
   filter: drop-shadow(0 12px 30px rgba(0, 0, 0, 0.2));
 }
